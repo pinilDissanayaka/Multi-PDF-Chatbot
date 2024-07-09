@@ -23,10 +23,10 @@ This project is a multi-PDF chatbot application that leverages advanced AI and M
 ### Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/Multi-PDF-Chatbot.git
-   cd Multi-PDF-Chatbot
-   ```
+```
+git clone https://github.com/yourusername/Multi-PDF-Chatbot.git
+cd Multi-PDF-Chatbot
+```
    
 2. Create a virtual environment and activate it:
 ```
