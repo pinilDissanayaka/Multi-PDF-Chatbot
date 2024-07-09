@@ -24,7 +24,7 @@ This project is a multi-PDF chatbot application that leverages advanced AI and M
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/Multi-PDF-Chatbot.git
+git clone https://github.com/pinilDissanayaka/Multi-PDF-Chatbot/tree/main
 cd Multi-PDF-Chatbot
 ```
    
