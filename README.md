@@ -8,6 +8,9 @@ This project is a multi-PDF chatbot application that leverages advanced AI and M
 - **Pinecone Vector Database**: Vector search and similarity matching.
 - **LangChain**: Building language model applications.
 
+## Application Archiecture
+![Architecture](https://github.com/user-attachments/assets/3cf9744b-193d-428d-bcc7-773d878fcbd1)
+
 ## Key Features
 - Multi-PDF Upload
 - Intelligent Query Handling
