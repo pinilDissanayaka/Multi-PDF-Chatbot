@@ -5,3 +5,4 @@ sentence-transformers==2.2.2
 faiss-cpu
 youtube-transcript-api
 transformers
+PyPDF2
