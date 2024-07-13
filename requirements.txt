@@ -6,3 +6,7 @@ faiss-cpu
 youtube-transcript-api
 transformers
 PyPDF2
+langchain_core
+pinecone-client
+langchain_pinecone
+pinecone-notebooks
